@@ -1,6 +1,6 @@
 # sushibot
 
-寿司/すし/sushi -> スシが食べたい
+寿司/すし/sushi -> スシが食べたい  
 景子/けいこ/keiko -> 景子がこんにちわ
 
 sushibot is a chat bot built on the [Hubot][hubot] framework. It was
