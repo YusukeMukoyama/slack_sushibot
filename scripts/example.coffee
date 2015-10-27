@@ -11,7 +11,7 @@
 module.exports = (robot) ->
 
   robot.hear /(sushi|すし|スシ|寿司)/i, (msg) ->
-    msg.send "スシが食べたい。”
+    msg.send "スシが食べたい。"
 
   # robot.hear /badger/i, (res) ->
   #   res.send "Badgers? BADGERS? WE DON'T NEED NO STINKIN BADGERS"
